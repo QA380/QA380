@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @QA380
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning minecraft
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord
+Hello, I'm Vincent or 郭愛文
+trying to learn new things everyday
 
 <!---
 QA380/QA380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
