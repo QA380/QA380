@@ -1,4 +1,4 @@
-Hello, I'm Vincent or 郭愛文<br>
+Vincent/郭愛文<br>
 Trying to learn new things everyday<br>
 Making simple projet as learning activities :3
 
