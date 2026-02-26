@@ -9,7 +9,6 @@ Vincent/郭愛文<br>Trying to learn new things everyday<br>Making simple projec
 ![](https://nirzak-streak-stats.vercel.app/?user=QA380&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QA380&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
