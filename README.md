@@ -2,7 +2,7 @@
 Vincent/郭愛文<br>Trying to learn new things everyday<br>Making simple project as learning activities :3
 
 
-# Tech Stack:
+# Learning:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=QA380&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
