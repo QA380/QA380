@@ -1,5 +1,5 @@
 # About Me:
-Vincent/郭愛文<br>Trying to learn new things everyday<br>Making simple project as learning activities :3
+郭愛文<br>Trying to learn new things everyday<br>Making simple project as learning activities :3
 
 
 # Learning:
